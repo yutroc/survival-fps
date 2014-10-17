@@ -18,6 +18,7 @@ public class Menu : MonoBehaviour {
 
 	void OnConnectedToServer() {
 		Debug.Log("Connected to server");
+
 	}
 
 	void OnGUI()
